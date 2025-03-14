@@ -106,6 +106,7 @@
         - Aperiodic signal 은 주기를 갖지 않는 신호입니다.
 - Energy/Power Signal
     - Energy Signal
-        - 
+      - 구간 (a,b) 사이의 에너지 정의는 다음 식과 같습니다.
+        - $E = \int_{a}^{b}{\left\vert x(t) \right\vert^{2} dt}$
     - Power Signal
 - Continuous/Discrete Signal
