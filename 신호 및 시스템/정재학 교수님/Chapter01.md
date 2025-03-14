@@ -37,6 +37,7 @@
 - ADC는 아날로그 신호를 입력으로 받아 디지털 신호로 바꿔주는 시스템입니다.
 - ADC에서 신호는 총 3가지 상태를 가집니다.
     - Analog Signal
+      
         ![image](https://github.com/user-attachments/assets/a66ea5aa-fa40-49b2-b71c-ef7da1a27c4a)
 
         
@@ -75,12 +76,15 @@
 
 - Deterministic/Random Signal
     - Deterministic Signal
+      
       ![image](https://github.com/user-attachments/assets/c1a5b93d-9436-442a-b60c-3ba93702e9b5)
+  
         - Deterministic signal은 신호가 발생하기 전에 미리 그 신호 값을 알 수 있는 신호입니다.
             > There is no uncertainty with respect to its value at any time.
             >
         - 신호 및 시스템 과목에서는 Random signal은 다루지 않고 Deterministic signal만 다룹니다.
     - Random Signal
+      
         ![image](https://github.com/user-attachments/assets/11c9baae-3479-4791-96f9-615f676eaf0f)
  
         - Random signal은 신호가 실제로 발생하기 전까지 그 신호 값을 예측할 수 없는 신호입니다.
@@ -88,12 +92,15 @@
         - Deterministic signal 에 노이즈가 섞이면 Random signal이 될 수 있습니다.
 - Periodic/Aperiodic(Non-periodic) Signal
     - Periodic Signal
-          ![image](https://github.com/user-attachments/assets/be3fb9e6-c6d0-42a7-a417-8c1640c280df)
+
+      ![image](https://github.com/user-attachments/assets/be3fb9e6-c6d0-42a7-a417-8c1640c280df)
+      
         - Periodic signal 은 주기를 갖는 신호입니다.
         - Periodic signal 함수는 아래 조건을 만족합니다.
             - x(t) = x(t + T) for all t
                 - 이때 Fundamental frequency 는 1/T, Angular frequency 는 2π/T 입니다.
     - Aperiodic Signal
+      
         ![image](https://github.com/user-attachments/assets/e00be867-4999-4851-af5d-a36401b33f6f)
  
         - Aperiodic signal 은 주기를 갖지 않는 신호입니다.
