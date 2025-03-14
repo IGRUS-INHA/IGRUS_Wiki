@@ -1,7 +1,7 @@
 ---
 name: Feature
 about: 아그위키에 새로운 내용 추가
-title: ''
+title: "[Feature] "
 labels: ''
 assignees: ''
 

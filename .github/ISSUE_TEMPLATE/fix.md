@@ -1,7 +1,7 @@
 ---
 name: Fix
 about: 기존에 작성된 아그위키 문서 수정
-title: ''
+title: "[Fix] "
 labels: ''
 assignees: ''
 
